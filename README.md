@@ -8,4 +8,7 @@ ssh -i ~/.ssh/vdks.pem ubuntu@vidsj
 
 # AWS
 
-#
+# CI
+test 10
+
+# CD
