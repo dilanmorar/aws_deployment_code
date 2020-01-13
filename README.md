@@ -72,6 +72,7 @@ npm run test
 ```
 save
 
+search for github ip adresses and ports
+allow these access in the security group
 
-
-test 8
+test 9
